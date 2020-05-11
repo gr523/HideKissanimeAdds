@@ -7,6 +7,7 @@
 // @match        https://kissanime.ru/*
 // @match        http://kissanime.ru/*
 // @run-at       document-start
+// @require      hidemethods.js
 // @grant        remove
 // ==/UserScript==
 var fast=0,clickhideonly=0,blockall=1; //set your chosen method to 1
