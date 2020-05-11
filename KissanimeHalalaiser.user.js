@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         AutoClickHide
+// @name         KissanimeHalalaiser
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  KissanimeHalalaiser
+// @description  HideKissanimeAdds
 // @author       Tasnim Ferdous
 // @match        https://kissanime.ru/*
 // @match        http://kissanime.ru/*
@@ -10,7 +10,9 @@
 // @require      hidemethods.js
 // @grant        remove
 // ==/UserScript==
+
 var fast=0,clickhideonly=0,blockall=1; //set your chosen method to 1
+
 /*
    Note :
    1.only blockall works on all pages of kissanime the rest works for the video-playback page only;
