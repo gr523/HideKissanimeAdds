@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         KissanimeHalalaiser
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  HideKissanimeAdds
 // @author       Tasnim Ferdous
 // @match        https://kissanime.ru/*
