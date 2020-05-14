@@ -34,6 +34,7 @@ var fast=0,clickhideonly=0,blockall=1,hideAddsOnAllPages=0; //set your chosen me
 
 
 
+//You can ignore the warnings.The functions are in hidemethods.js file,take a look on the repo to see the methods
 
 (function(){
 
