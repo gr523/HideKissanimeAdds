@@ -2,7 +2,7 @@
 // @name         KissanimeHalalaiser
 // @version      1.0
 // @description  HideKissanimeAdds
-// @author       Tasnim Ferdous
+// @author       gr523
 // @match        https://kissanime.ru/*
 // @match        http://kissanime.ru/*
 // @require      hidemethods.js
