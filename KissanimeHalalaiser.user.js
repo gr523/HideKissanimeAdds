@@ -5,6 +5,7 @@
 // @author       Tasnim Ferdous
 // @match        https://kissanime.ru/*
 // @match        http://kissanime.ru/*
+// @require      hidemethods.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
