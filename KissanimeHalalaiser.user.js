@@ -9,7 +9,7 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-var fast=0,clickhideonly=0,blockall=1,hideAddsOnAllPages=0; //set your chosen method to 1
+var fast=0,clickhideonly=1,blockall=0,hideAddsOnAllPages=1; //set your chosen method to 1
 
 /*
    Note :
@@ -23,6 +23,17 @@ var fast=0,clickhideonly=0,blockall=1,hideAddsOnAllPages=0; //set your chosen me
    my suggestion would be:
    If your inernet speed is good(6/7Mbps+) at the time of using kissanime just use clickhideonly;
 */
+
+
+
+
+
+
+
+
+
+
+
 
 (function(){
 
