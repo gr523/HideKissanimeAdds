@@ -21,6 +21,7 @@ function hideframe(){
 
     if(server.length==1 || (server.length>1 &&(server[1].startsWith('beta') || server[1].startsWith('def')))){
         GM_addStyle('iframe{display:none !important;}');
+        GM_addStyle('img[width="200"]{display:none !important};}');
     } else {
         return addhide();
         alert("Chose beta server if possible in case video doesn't work");
@@ -56,6 +57,7 @@ function hideOnAllpages(){
 
     if(server.length==1){
         GM_addStyle('iframe{display:none !important;}');
+        GM_addStyle('img[width="200"]{display:none !important};}');
     }
 }
 
